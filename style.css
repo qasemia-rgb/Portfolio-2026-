@@ -82,3 +82,9 @@ body {
     background-color: #615f5f;
     color: #000000;
 }
+
+body{
+    background-image:url(images/BlackShapeBG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
